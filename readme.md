@@ -1,0 +1,1 @@
+olá, sou aluno  de uma escola publica no paraná,tenho 15 anos,faço curso no site alura e no scracth.Moro em uma cidade pequena não muito conhecida,fiz uma conta github para aprender mais sobre programções.
